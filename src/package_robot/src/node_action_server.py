@@ -30,6 +30,6 @@ class DoActionServer:
 
 
 if __name__ == '__main__':
-    rospy.init_node('nodo_action_server')
+    rospy.init_node('node_action_server')
     server = DoActionServer()                                      #Creamos una instancia de la Clase DoActionServer
     rospy.spin()                                                   #Mantiene corriendo el script hasta que se detiene la ejecución del script con Crtl+C

@@ -1,0 +1,8 @@
+prefix=/home/neira-vargas/catkin_ws_apps/install
+
+Name: package_fetch
+Description: Description of package_fetch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

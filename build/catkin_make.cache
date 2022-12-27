@@ -1,2 +1,2 @@
-package_robot
+fecth/fetch_gazebo/fetch_gazebo:fecth/fetch_gazebo/fetch_simulation:fecth/fetch_ros/fetch_description:fecth/fetch_ros/fetch_ros:package_fetch:package_robot
 -DCATKIN_DEVEL_PREFIX=/home/neira-vargas/catkin_ws_apps/devel -DCMAKE_INSTALL_PREFIX=/home/neira-vargas/catkin_ws_apps/install -G Unix Makefiles

@@ -131,7 +131,12 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/neira-vargas/catkin_ws_apps/build/gtest/cmake_install.cmake")
+  include("/home/neira-vargas/catkin_ws_apps/build/fecth/fetch_ros/fetch_description/cmake_install.cmake")
+  include("/home/neira-vargas/catkin_ws_apps/build/fecth/fetch_ros/fetch_ros/cmake_install.cmake")
+  include("/home/neira-vargas/catkin_ws_apps/build/fecth/fetch_gazebo/fetch_simulation/cmake_install.cmake")
   include("/home/neira-vargas/catkin_ws_apps/build/package_robot/cmake_install.cmake")
+  include("/home/neira-vargas/catkin_ws_apps/build/package_fetch/cmake_install.cmake")
+  include("/home/neira-vargas/catkin_ws_apps/build/fecth/fetch_gazebo/fetch_gazebo/cmake_install.cmake")
 
 endif()
 

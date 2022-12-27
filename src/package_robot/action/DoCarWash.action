@@ -1,8 +1,8 @@
-# Goal
+#goal
 int32 number_of_cars
 ---
-# Result
+#result
 int32 total_cars_cleaned
 ---
-# Feedback
+#feedback
 float32 percent_cars_complete
