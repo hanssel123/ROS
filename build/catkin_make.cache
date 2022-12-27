@@ -1,0 +1,2 @@
+package_robot
+-DCATKIN_DEVEL_PREFIX=/home/neira-vargas/catkin_ws_apps/devel -DCMAKE_INSTALL_PREFIX=/home/neira-vargas/catkin_ws_apps/install -G Unix Makefiles
